@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @alexprudhomme</h1>
 <h3 align="center">A computer science student from Canada</h3>
 
-- 🔭 I’m currently working on [Perfect Pitch Trainer](https://github.com/alexprudhomme/perfect-pitch-trainer)
-
 - ⚡ Work experience:
   - **Software Engineer intern at Mec-Inov** - Full-stack development on the Mobile Apps team. [Québec. Summer 2021]
   
