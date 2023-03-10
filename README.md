@@ -2,8 +2,8 @@
 <h3 class="center">A computer science student from Canada</h3>
 
 
-
 <h3 class="left">⚡ Work experience:</h3>
+
 - **Software Engineer intern at Mec-Inov** - Full-stack development on the Mobile Apps team. [Québec. Summer 2021]
 
 
